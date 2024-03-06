@@ -1,4 +1,4 @@
-<h1 align="center"> blin, Ny u <a href="https://t.me/Sagebrush_pv" target="_blank">chepus</a> 
+<h1 align="center"> Blin, ny u <a href="https://t.me/Sagebrush_pv" target="_blank">chepus</a> 
 <img src="https://media.tenor.com/QlGHnEzVNmoAAAAi/cute-heart.gif" height="32"/></h1>
 <h3 align="center">Ну у вас и запросы! - сказала база данных и повисла</h3>
 <h1 align="center">
