@@ -1,7 +1,9 @@
-<h1 align="center">Ny u chepus, blin <a href="https://t.me/Sagebrush_pv" target="_blank"></a> 
+<h1 align="center">Ny u chepus,  <a href="https://t.me/Sagebrush_pv" target="_blank">blin</a> 
 <img src="https://media.tenor.com/QlGHnEzVNmoAAAAi/cute-heart.gif" height="32"/></h1>
 <h3 align="center">Ну у вас и запросы! - сказала база данных и повисла</h3>
-<img src="https://media1.tenor.com/m/5BYK-WS0__gAAAAC/cool-fun.gif" height="62"/>
+<h1 align="center">
+<img src="https://media1.tenor.com/m/zN5C2mTeYWoAAAAC/dnce.gif" height="150"/>
+</h1>
 <!--
 **Sagebrush09/Sagebrush09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
